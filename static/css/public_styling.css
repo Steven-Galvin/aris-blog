@@ -246,6 +246,10 @@ nav .logo_div h1 {
 	background-size: 100%;
 }
 
+.post_banner {
+  width: 100%;
+}
+
 .content .post .post_info {
 	height: 100%;
 	padding: 0px 5px;
